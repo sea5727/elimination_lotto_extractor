@@ -1,4 +1,4 @@
-package com.example.elimination_lotto_extractor
+package com.domain.elimination_lotto_extractor
 
 import androidx.annotation.NonNull;
 import io.flutter.embedding.android.FlutterActivity
